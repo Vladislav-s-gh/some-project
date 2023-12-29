@@ -1,0 +1,66 @@
+body {
+font-family: arial;
+color: black;
+background-color: rgb(143, 204, 202);
+}
+.mainmenu {
+display: flex;
+width: auto;
+border: 1px solid grey;
+height:100px;
+}
+
+.image{
+font-size: 26px;
+display: inline-box;
+width: 100px;
+height: 100px;
+background-color: yellow;
+
+
+}
+
+#image-of-heart{
+width: 100px;
+height: 100px;
+}
+.lable{
+padding:35px;
+width: auto;
+height:20px;
+font-size:30px;
+}
+
+.navbar {
+font-size: 20px;
+display: inline-box;
+width: auto;
+height: 75px;
+background-color: none;
+margin-left: auto;
+
+
+}
+.navbar-box {
+display:flex;
+list-style-type: none;
+
+
+
+
+}
+
+li {
+padding: 10px;
+margin:32px;
+}
+
+.game {
+  color: rgba(0, 0, 0, 0.671);
+  border: 3px solid rgba(25, 209, 120, 0.548);
+  padding: 15px;
+  border-radius: 20px;
+  width:max-content;
+  height: auto;
+  background-color: rgba(0, 0, 0, 0.381);
+}
